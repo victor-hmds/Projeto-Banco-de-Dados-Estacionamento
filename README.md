@@ -38,7 +38,7 @@ Este projeto tem como objetivo a criacao de um banco de dados para gerenciamento
 ## Capturas de Tela
 
 <p align="center">
-  <img src="https://github.com/victor-hmds/Projeto-Banco-de-Dados-Estacionamento/blob/main/Projeto%20Final%20-%20Banco%20de%20Dados%20-%20Estacionamento.png" width="70%" />
+  <img src="https://github.com/victor-hmds/Projeto-Banco-de-Dados-Estacionamento/blob/main/diagrama_mer/Projeto%20Final%20-%20Banco%20de%20Dados%20-%20Estacionamento.png" width="70%" />
 </p>
 
 ## Contribuição
