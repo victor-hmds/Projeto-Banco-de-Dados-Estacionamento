@@ -2,7 +2,7 @@
 
 ## Descricao do Projeto
 
-Este projeto tem como objetivo a criacao de um banco de dados para gerenciamento de um estacionamento, permitindo o controle de entrada e saida de veiculos, registro de clientes, tarifas aplicadas e outras informacoes essenciais para a gestao eficiente do negocio.
+Este projeto tem como objetivo a criação de um banco de dados para gerenciamento de um estacionamento, permitindo o controle de entrada e saída de veículos, registro de clientes e outras informações essenciais para a gestão eficiente do negócio.
 
 ## Índice
 
